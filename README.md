@@ -2,7 +2,7 @@
 Projeto SD 2022/23
 
 
-Neste repositório irá estar a meta1 e meta2 do projeto.
+Neste repositório irá estar a meta2 do projeto.
 
 
 
